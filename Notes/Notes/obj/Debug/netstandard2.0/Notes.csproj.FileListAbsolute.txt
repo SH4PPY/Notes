@@ -1,0 +1,15 @@
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+D:\Documents\Dev\AppDev\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
